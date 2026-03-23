@@ -1,0 +1,20 @@
+{
+  "description": "Adastra brand icon test set — 10 icons across categories",
+  "base_url": "https://raw.githubusercontent.com/{OWNER}/{REPO}/main/icons",
+  "variants": {
+    "red-400": "Red on transparent, 400x400 PNG — use on light backgrounds",
+    "white-400": "White on transparent, 400x400 PNG — use on dark/red backgrounds"
+  },
+  "icons": [
+    {"id": 1, "name": "cloud", "category": "cloud", "tags": ["cloud", "infrastructure", "hosting", "saas"]},
+    {"id": 12, "name": "artificial-intelligence-chatgpt", "category": "ai", "tags": ["ai", "chatgpt", "artificial intelligence", "machine learning"]},
+    {"id": 74, "name": "handshake-deal", "category": "people", "tags": ["handshake", "deal", "partnership", "agreement", "business"]},
+    {"id": 134, "name": "bar-chart", "category": "data", "tags": ["chart", "bar chart", "analytics", "data", "statistics"]},
+    {"id": 171, "name": "security-shield", "category": "security", "tags": ["security", "shield", "protection", "cybersecurity"]},
+    {"id": 186, "name": "rest-api", "category": "development", "tags": ["api", "rest", "integration", "development", "endpoint"]},
+    {"id": 213, "name": "payment", "category": "finance", "tags": ["payment", "money", "transaction", "finance"]},
+    {"id": 236, "name": "sustainable-energy", "category": "energy", "tags": ["sustainability", "energy", "green", "renewable", "eco"]},
+    {"id": 256, "name": "cargo-ship", "category": "logistics", "tags": ["cargo", "ship", "logistics", "shipping", "transport"]},
+    {"id": 268, "name": "chat-message", "category": "communication", "tags": ["chat", "message", "communication", "conversation"]}
+  ]
+}
