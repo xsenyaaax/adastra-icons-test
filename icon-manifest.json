@@ -1,6 +1,6 @@
 {
   "description": "Adastra brand icon test set — 10 icons across categories",
-  "base_url": "https://raw.githubusercontent.com/{OWNER}/{REPO}/main/icons",
+  "base_url": "https://raw.githubusercontent.com/xsenyaaax/adastra-icons-test/main/icons",
   "variants": {
     "red-400": "Red on transparent, 400x400 PNG — use on light backgrounds",
     "white-400": "White on transparent, 400x400 PNG — use on dark/red backgrounds"
